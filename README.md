@@ -21,5 +21,6 @@ In order to make changes in the bootstrap theme you can use the sccs framework w
 
 1. Buttons in header can be removed
 2. Update header to be carousel. You can use the new and old picture to do this.
-3. Update news section with : https://www.youtube.com/watch?v=OyhEUIKNgbI and https://www.youtube.com/watch?v=OKfqZZ2uxB0
+3. Create news section with : https://www.youtube.com/watch?v=OyhEUIKNgbI and https://www.youtube.com/watch?v=OKfqZZ2uxB0. News section should look like the one
+from the visual design located at zorg_landingspagina_medicatieretouren_01.pdf
 4. Replace theme color with multimodaal color and style elements. 
