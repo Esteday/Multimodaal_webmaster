@@ -1,0 +1,16 @@
+// Nav pills
+
+.nav-pills.nav-pills-border {
+  .nav-item {
+    .nav-link {
+      border: 1px solid $gray-200;
+      border-radius: 4px;
+      margin-right: -1px;
+      &.active {
+        color: $white;
+        background-color: $primary;
+        border: 1px solid $primary;
+      }
+    }
+  }
+}

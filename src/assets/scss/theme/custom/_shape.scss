@@ -1,0 +1,56 @@
+// Custom shape
+
+// bg shape
+
+.bg-shape {
+  position: relative;
+
+  &:after {
+    position: absolute;
+    background: url(../images/curve-shape.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    bottom: -15px;
+    height: 62px;
+    width: 100%;
+    content: "";
+    background-position-x: center;
+  }
+}
+
+// Top shape
+
+.top-shape {
+  position: relative;
+
+  &:after {
+    position: absolute;
+    background: url(../images/curve-shape-top.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 0px;
+    height: 90px;
+    width: 100%;
+    content: "";
+    background-position-x: center;
+  }
+}
+
+
+// Bottom shape
+
+.bottom-shape {
+  position: relative;
+
+  &:after {
+    position: absolute;
+    background: url(../images/curve-shape-bottom.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 0px;
+    height: 77px;
+    width: 100%;
+    content: "";
+    background-position-x: center;
+  }
+}
